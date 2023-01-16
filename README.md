@@ -1,6 +1,6 @@
 # 숫자 맞추기 게임
 ![numberGame](./image/numberGame.PNG)
-+ 데모앱: [숫자 맞추기 게임](https://number-game-std.netlify.app)
++ 데모앱 :clapper: [숫자 맞추기 게임](https://number-game-std.netlify.app)
 
 ## 기능
 + 컴퓨터가 게임을 시작하면 자동으로 Random 숫자를 뽑는다.
