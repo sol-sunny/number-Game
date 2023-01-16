@@ -1,8 +1,8 @@
 # 숫자 맞추기 게임
 ![numberGame](./image/numberGame.PNG)
-+ 데모앱 :clapper: [숫자 맞추기 게임](https://number-game-std.netlify.app)
+:clapper: 데모앱: [숫자 맞추기 게임](https://number-game-std.netlify.app)
 
-## 기능
+## :memo:기능
 + 컴퓨터가 게임을 시작하면 자동으로 Random 숫자를 뽑는다.
 + 유저는 숫자를 입력하고 'Go'버튼을 클릭한다.
 + 유저가 입력한 숫자가 컴퓨터가 뽑은 숫자보다 작으면 'Up' 이라고 알려준다.
@@ -17,7 +17,7 @@
 + 유저가 이미 입력한 값을 또 입력하면 경고알림이 뜬다. (단, 기회는 줄어들지 않는다.)
 + 반응형 UI
 
-## 사용한 기술
+## :hammer:사용한 기술
 + HTML
 + CSS
 + Vanila Javascript
